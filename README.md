@@ -1,3 +1,5 @@
+![Banner](Banner.jpg)
+
 # Hi 👋, I'm Al Amin
 
 ### A passionate Frontend Developer from Bangladesh
